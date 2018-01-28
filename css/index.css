@@ -30,3 +30,18 @@
 	left: 300px;	
 	top:130px;
 }
+.none,.active,.done{
+	width: 20px;
+	height: 20px;
+	position: absolute;
+	box-sizing: border-box;
+}
+.none{
+	background-color: #FAFAFA;
+}
+.active{
+	background-color: pink;
+}
+.done{
+	background-color: #000;
+}
