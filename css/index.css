@@ -40,8 +40,10 @@
 	background-color: #FAFAFA;
 }
 .active{
-	background-color: pink;
+	background-color: greenyellow;
+	border: 1px solid green;
 }
 .done{
 	background-color: #000;
+	border: 1px solid #000;
 }
